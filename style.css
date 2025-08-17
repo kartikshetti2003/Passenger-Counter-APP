@@ -1,0 +1,47 @@
+body {
+    background-image: url(/Metro_Station.jpg);
+    background-size: 100% auto;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.sub_btn {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    background-color: darkred;
+    font-family: cursive;
+}
+
+.rst_btn {
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: black;
+    background-color: yellow;
+    width: 100px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
